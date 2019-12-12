@@ -1,0 +1,6 @@
+crash.log
+test.go
+keyfile.json
+terraform.tfstate*
+terraform-provider-my-gcp
+.terraform/
